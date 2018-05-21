@@ -19,7 +19,7 @@ tags:
 Мы сделали поддержку аттачей для отчета для популярных http клиентов в [allure-java](https://github.com/allure-framework/allure-java):
  * [rest-assured](https://github.com/allure-framework/allure-java#rest-assured), 
  * [okhttp](https://github.com/allure-framework/allure-java#okhttp) 
- * httpclient
+ * [httpclient](https://github.com/allure-framework/allure-java#http-client)
  
 После подключения фильтра, вы получите два простейших аттача.
 
