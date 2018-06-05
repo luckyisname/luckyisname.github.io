@@ -1,5 +1,5 @@
 ---
-title: Релиз OpenAPI Generator
+title: Старт нового проекта OpenAPI Generator
 date: 2018-05-15
 categories:
 - Автотесты на API
@@ -7,7 +7,7 @@ tags:
 - openapi-generator
 - swagger
 ---
-12 мая 2018 года состоялся релиз [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator). Проект является форком swagger-codegen, полностью поддерживаемый и развиваемый community. В нем уже добавлена поддержка OpenAPI-spec 3.0 и проект продолжает развиваться. **Я являюсь одним из основателем этого проекта.**
+12 мая 2018 года стартанул новый проект [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator). Проект является форком swagger-codegen, полностью поддерживаемый и развиваемый community. В нем уже добавлена поддержка OpenAPI-spec 3.0 и проект продолжает развиваться. **Я являюсь одним из основателем этого проекта.**
 
 >OpenAPI Generator is a fork of Swagger Codegen. In view of the issues with the Swagger Codegen 3.0.0 (beta) release and the disagreement on the project's direction, more than 40 top contributors and template creators of Swagger Codegen decided to fork Swagger Codegen and maintain a community-driven version called "OpenAPI Generator". Please refer to the Q&A for more information.
 
