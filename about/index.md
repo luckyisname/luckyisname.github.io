@@ -12,6 +12,7 @@ type: about
 * [allure-java](https://github.com/allure-framework/allure-java/)
 * [rest-assured](https://github.com/rest-assured/rest-assured/)
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator/)
+* [swagger-codegen](https://github.com/swagger-api/swagger-codegen/)
 
 Также я являюсь одним из основателей:
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator/)
