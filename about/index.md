@@ -13,6 +13,7 @@ type: about
 * [rest-assured](https://github.com/rest-assured/rest-assured/)
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator/)
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen/)
+* [JsonUnit](https://github.com/lukas-krecan/JsonUnit)
 
 Также я являюсь одним из основателей:
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator/)
