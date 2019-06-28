@@ -44,7 +44,7 @@ tags:
 ## Мой аттач ответа
 ![Alt text](/images/2018-05-05-custom-response-attachment.jpg)
 
-Их можно найти в папке [examples](https://github.com/allure-framework/allure-java/tree/master/examples/rest-assured/src/test/resources/tpl).
+Их можно найти [тут](https://github.com/viclovsky/allure-java-templates-example/tree/master/tpl).
 
 Также можно добавить шаг, к которому будет прикрепляться аттачи. Для этого достаточно отнаследоваться от фильтра. 
 Например для Rest-assured, такой фильтр будет выглядеть так:
