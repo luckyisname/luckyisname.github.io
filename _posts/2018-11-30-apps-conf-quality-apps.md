@@ -3,6 +3,8 @@ title: Тематический митап AppsConf QualityApps
 date: 2018-11-30
 categories:
 - Автотесты на APP
+tags:
+- meetup
 ---
 Митап проходил в офисе mail.ru в Москве 30 ноября и полностью посвящен **мобильному тестированию**.
 Анонс на [хабре](https://habr.com/company/mailru/blog/430570/).
