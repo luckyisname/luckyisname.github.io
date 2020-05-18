@@ -1,6 +1,6 @@
 ---
 title: Allure scalatest для scala 2.13
-date: 2020-01-16
+date: 2020-05-18
 categories: 
 - Автотесты на API
 tags:
