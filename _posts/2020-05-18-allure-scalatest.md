@@ -10,7 +10,7 @@ tags:
 ---
 У allure есть огромное количество интеграций для разных языков и фреймворков, в том числе и для [scalatest](http://www.scalatest.org/) - наиболее популярного тестового фреймворка для scala. 
 Совсем недавно я добавил поддержку для allure-scalatest версии 2.13 к уже существующей 2.12. 
-Я коротко расскажу как подключать и использовать [allure-scalatest](https://github.com/allure-framework/allure-java/tree/master/allure-scalatest).
+Я коротко расскажу  **как подключать и использовать [allure-scalatest](https://github.com/allure-framework/allure-java/tree/master/allure-scalatest).**
 
 ## Как подключить
 * Добавить зависимость в ```build.sbt```
@@ -29,8 +29,7 @@ val allureScalaTest = "io.qameta.allure" % "allure-scalatest_2.13" % allureScala
 ```
 Подробно что эти опции делают можно почитать [тут](http://www.scalatest.org/user_guide/using_scalatest_with_sbt) 
 Если коротко, то scalatest позволяет указать класс reporter-а. Reporter позволяет отображать результат тестов различными путями, чем мы пользуемся. 
- 
-> You can create classes that extend <code>Reporter</code> to report test results in custom ways, and to
+ > You can create classes that extend <code>Reporter</code> to report test results in custom ways, and to
 > report custom information passed as an event "payload"
 
 *  Для всех тестов необходимо прописать trait ```AllureScalatestContext```.
