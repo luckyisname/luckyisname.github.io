@@ -2,6 +2,7 @@
 title: Тематический митап AppsConf QualityApps
 date: 2018-11-30
 categories:
+- Конференции и митапы
 - Автотесты на APP
 tags:
 - meetup
