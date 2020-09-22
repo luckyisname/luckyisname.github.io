@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Блог
-subtitle: Пишем автотесты с умом
-description: QA Automation engineer's blog
-author: Victor Orlovsky
+title: Блог QA 
+subtitle: Подходы и инструменты
+description: QA Engineer blog
+author: Yunusov Linar
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ru
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://viclovsky.github.io
+url: https://luckyisname.github.io
 baseurl:
 permalink: pretty
 
@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "viclovsky, blog, QA, Automation, test, tests, блог, автотесты, тесты, тестирование, автоматизация тестирования"
+keywords: "luckyisname, blog, QA, manual, automation, test, tests, блог, автотесты, тесты, тестирование, автоматизация тестирования, ручное тестирование"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -86,10 +86,10 @@ keywords: "viclovsky, blog, QA, Automation, test, tests, блог, автоте�
 rss:
 
 # Specify the date when the site was setup
-since: 2018
+since: 2020
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: fire
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -213,7 +213,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/viclovsky
+  GitHub: https://github.com/luckyisname
 
 
 # Social Links Icons
@@ -226,8 +226,9 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  Instagram: instagram
+  Telegram: telegram
+  
 
 
 # Sidebar Avatar
@@ -380,7 +381,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: viclovsky-github-io
+  shortname: luckyisname-github-io
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -432,14 +433,14 @@ gitalk:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification: ZBlfzyEWvo2jfa3e7cwFIx7-kfs3lIrr_9qPkgm7HtU
+google_site_verification: 
 
 # Google Analytics
 #google_analytics:
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
-yandex_site_verification: eba94a39f2bc6455
+yandex_site_verification: 
 
 # CNZZ count
 #cnzz_siteid:
