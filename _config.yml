@@ -213,9 +213,9 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/luckyisname
-  Instagram: https://www.instagram.com/yun_name
-  Telegram: https://t.me/luckyisname
+ /n GitHub: https://github.com/luckyisname
+ /n Instagram: https://www.instagram.com/yun_name
+ /n Telegram: https://t.me/luckyisname
 
 
 # Social Links Icons
@@ -258,8 +258,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -355,7 +355,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night blue
+highlight_theme: night eighties
 
 
 # ---------------------------------------------------------------
