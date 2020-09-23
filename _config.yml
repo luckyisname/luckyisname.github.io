@@ -214,7 +214,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/luckyisname
-  Instagram: https://www.instagram.com/yun_name/
+  Instagram: https://www.instagram.com/yun_name
   Telegram: https://t.me/luckyisname
 
 
@@ -355,7 +355,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night
+highlight_theme: night blue
 
 
 # ---------------------------------------------------------------
